@@ -6,4 +6,7 @@ Jane = Person.new(Jane_attributes)
 Jane.name       # => "Jane"
 Jane.hair_color  #=> "Brown"
 Jane.eye_color #=> "Green"
+
+attr_accessor: 
+Carrie-attributes: = {name: "Carrie" , 
 end
